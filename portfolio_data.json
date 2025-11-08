@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Stock",
+        "ticker": "GOOG",
+        "quantity": 5,
+        "purchase_price": 100.0
+    },
+    {
+        "type": "Crypto",
+        "ticker": "BTC",
+        "quantity": 0.5,
+        "purchase_price": 50000.0
+    },
+    {
+        "type": "Stock",
+        "ticker": "TSLA",
+        "quantity": 1.0,
+        "purchase_price": 100.0
+    }
+]
