@@ -1,0 +1,28 @@
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.pyc
+*.pyo          # Compiled Python optimization files
+
+my_p1/         # Explicitly ignore your current environment folder
+venv/
+env/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+*.egg-info/
+build/
+dist/
+
+.idea/         # PyCharm/IntelliJ configuration
+.vscode/       # VS Code workspace files
+*~             # Swap/Backup files created by editors (like Vim/Emacs)
+
+portfolio_data.json 
+
+*.log
+
+.ipynb_checkpoints
